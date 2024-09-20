@@ -1,0 +1,13 @@
+{
+  "name": "es6import",
+  "version": "1.0.0",
+  "main": "index4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module", // yo line chai import garna ko lagi chaiyne code ho .js file ma
+}
